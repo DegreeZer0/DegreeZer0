@@ -1,5 +1,5 @@
 # 💫 About Me:
-DegreeZer0 | Junior Dev (Remote, Brazil) 🇧🇷<br><br>🛠️ JS wiz | XML prompt crafting for AIs | Py/TS/Ruby/C#/C++<br><br>🎮 MMORPGs, FPS & hacking vibes | Code-breaking pro under pressure 🔥
+DegreeZer0 | Junior Dev (Remote, Brazil) 🇧🇷<br><br>🛠️ JS wiz | XML prompt crafting for AIs | FullStack<br><br>🎮 MMORPGs, FPS & hacking vibes | Code-breaking pro under pressure 🔥
 
 
 ## 🌐 Socials:
